@@ -123,11 +123,6 @@ def isSpecial(n):
    else:
       return False
 
-'''#checking for Anagram
-def isAnagram(a,b):
-   if len(a)=len(b):
-      #sorted()    
-'''
 
 n=int(input())
 def call(n):
